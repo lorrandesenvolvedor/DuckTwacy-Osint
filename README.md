@@ -17,7 +17,15 @@ ____________________________________________________________
 
 ____________________________________________________________
 **BIBLIOTECAS NECESSARIAS PARA RODAR O PROGRAMA**
+
+
 requests 
+
+
 BeautifulSoup 
+
+
 httpx 
+
+
 holehe
